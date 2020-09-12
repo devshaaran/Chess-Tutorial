@@ -1,0 +1,17 @@
+/* vw -> view width */
+/* vh -> view height */
+/* 16:9 */
+
+.App {
+  width: 100vw;
+
+}
+
+.ButtonText {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: medium;
+  text-align: center;
+  color: #FFF;
+  font-weight: bold;
+  
+}
