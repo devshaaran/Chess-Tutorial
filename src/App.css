@@ -2,7 +2,7 @@
 /* vh -> view height */
 /* 16:9 */
 
-.App {
+/* .App {
   width: 100vw;
 
 }
@@ -14,4 +14,31 @@
   color: #FFF;
   font-weight: bold;
   
+} */
+
+.chessboard {
+  width: 640px;
+  height: 640px;
+  margin: 20px;
+  border: 25px solid #333;
+}
+.black {
+  float: left;
+  width: 80px;
+  height: 80px;
+  background-color: #999;
+    font-size:50px;
+  text-align:center;
+  display: table-cell;
+  vertical-align:middle;
+}
+.white {
+  float: left;
+  width: 80px;
+  height: 80px;
+  background-color: #fff;
+  font-size:50px;
+  text-align:center;
+  display: table-cell;
+  vertical-align:middle;
 }
