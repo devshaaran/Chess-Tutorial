@@ -1,0 +1,22 @@
+.black {
+    float: left;
+    width: 80px;
+    height: 80px;
+    background-color: #999;
+    font-size:50px;
+    text-align:center;
+    display: table-cell;
+    vertical-align:middle;
+    border: black;
+    border-width: 1px;
+}
+.white {
+    float: left;
+    width: 80px;
+    height: 80px;
+    background-color: #fff;
+    font-size:50px;
+    text-align:center;
+    display: table-cell;
+    vertical-align:middle;
+}
